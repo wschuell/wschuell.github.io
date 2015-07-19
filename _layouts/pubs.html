@@ -1,0 +1,35 @@
+---
+layout: default
+---
+<div class="post">
+
+  <header class="post-header">
+    <h1 class="post-title">{{ page.title }}</h1>
+    <p class="post-meta">{% if page.author %}{{ page.author }} • {% endif %}{{ page.date | date: "%b %Y" }}</p>
+    <p class="post-meta">{% if page.shortwhere %}{{ page.shortwhere }}{% endif %}</p>
+    <p class="post-meta"> {% for link in page.links %} <a class="page-link" href="{{ link.lk | prepend: site.baseurl }}"> [{{ link.type }}]</a> {% endfor %} </p>
+  </header>
+
+  <article class="post-content">
+
+    <b>Abstract:</b> {{ page.abstract }}
+  </article>
+
+
+
+  <article class="post-content">
+    {{ content }}
+  </article>
+
+
+{% for link in page.links %}
+{% if link.type == "pdf" %}
+  <object class="embed-pdf" type="application/pdf" data="{{ link.lk | prepend: site.baseurl }}" id="pdf_content">
+    <p>Insert your error message here, if the PDF cannot be displayed.</p>
+  </object>
+{% endif %}
+{% endfor %}
+
+
+
+</div>

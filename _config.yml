@@ -1,0 +1,11 @@
+# Site settings
+title: William Schueller
+email: william.schueller@inria.fr
+description: "Personal page of William Schueller"
+
+baseurl: "" # the subpath of your site, e.g. /blog/
+url: "http://wschuell.github.io" # the base hostname & protocol for your site
+github_username:  wschuell
+
+# Build settings
+markdown: kramdown
