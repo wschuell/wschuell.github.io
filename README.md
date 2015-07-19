@@ -1,2 +1,0 @@
-# wschuell.github.io
-Website
