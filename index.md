@@ -10,5 +10,5 @@ I am a PhD student in the [Flowers project-team][flowers] at [INRIA Bordeaux Sud
 
 
 [flowers]:      http://flowers.inria.fr
-[inria]:   		http://inria.fr
+[inria]:   		http://www.inria.fr/en/centre/bordeaux
 [py]:			http://www.pyoudeyer.com
