@@ -5,7 +5,7 @@ permalink: /research/
 ---
 
 
-I am currently a PhD student at INRIA Bordeaux Sud-Ouest, under the supervision of Pierre-Yves Oudeyer. My PhD work focuses on the introduction of active learning mechanisms in computational models of language emergence and evolution. I am interested in computational models of social phenomena and cultural evolution; as well as individual learning strategies, especially in the domain of language.
+I recently finished my PhD at INRIA Bordeaux Sud-Ouest, under the supervision of Pierre-Yves Oudeyer. My PhD work focuses on the introduction of active learning mechanisms in computational models of language emergence and evolution. I am interested in computational models of social phenomena and cultural evolution; as well as individual learning strategies, especially in the domain of language.
 
 
 This can be done using 3 approaches: building theoretical models to better understand existing phenomena; building algorithms based on this knowledge to solve computational problems (consensus dynamics,), and finally designing algorithms interacting with humans (such as educational applications or recommender systems).

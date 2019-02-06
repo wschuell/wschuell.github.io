@@ -5,7 +5,7 @@ title: Home
 
 <img class="img-home" src="{{ site.baseurl }}/resources/photo.jpg"/>
 
-I am a PhD student in the [Flowers project-team][flowers] at [INRIA Bordeaux Sud-Ouest][inria], working under the supervision of [Pierre-Yves Oudeyer][py].
+I recently completed my PhD in the [Flowers project-team][flowers] at [INRIA Bordeaux Sud-Ouest][inria], working under the supervision of [Pierre-Yves Oudeyer][py].
 
 #### PhD defense, Dec. 10th 2018
 
@@ -21,7 +21,7 @@ I am a PhD student in the [Flowers project-team][flowers] at [INRIA Bordeaux Sud
 [flowers]:      http://flowers.inria.fr
 [inria]:   		http://www.inria.fr/en/centre/bordeaux
 [py]:			http://www.pyoudeyer.com
-[manuscript]:		https://drive.google.com/file/d/1qLMr98AFp1rEn7QCtFQ3mU9VO3KXh_Nl/view?usp=sharing
+[manuscript]:		https://drive.google.com/file/d/1lWDHq_OS6UeQgSUMBmRcJp22cSWByNtW
 [slides]:		https://drive.google.com/open?id=1XaLa9D-g6ZY0xXvHjZxPLMERyftLUig7
 [game]:		http://naming-game.space
 [video]:		https://youtu.be/RpE3DJLWGeA
