@@ -4,6 +4,7 @@ title: Research
 permalink: /research/
 ---
 
+I am currently working as a postdoc within the Complexity Science Hub Vienna, within the Creativity and Innovation Dynamics team. In collaborative projects, small contributions may sometimes be really valuable, by the new ideas they bring or the new paths they open. By building mathematical models and analyzing big databases of collaborative works (e.g. wikipedia, github, scientific literature, ...) we aim at spotting such contributions, suggest fairer credit attribution schemes, and foster more collaboration in various domains: scientific, artistic, software, ...
 
 I recently finished my PhD at INRIA Bordeaux Sud-Ouest, under the supervision of Pierre-Yves Oudeyer. My PhD work focuses on the introduction of active learning mechanisms in computational models of language emergence and evolution. I am interested in computational models of social phenomena and cultural evolution; as well as individual learning strategies, especially in the domain of language.
 
