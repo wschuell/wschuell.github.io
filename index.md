@@ -5,7 +5,7 @@ title: Home
 
 <img class="img-home" src="{{ site.baseurl }}/resources/photo.jpg"/>
 
-I am currently working as a postdoc within the [Complexity Science Hub Vienna][csh], within the Creativity and Innovation Dynamics team. In collaborative projects, small contributions may sometimes be really valuable, by the new ideas they bring or the new paths they open. By building mathematical models and analyzing big databases of collaborative works (e.g. wikipedia, github, scientific literature, ...) we aim at spotting such contributions, suggest fairer credit attribution schemes, and foster more collaboration in various domains: scientific, artistic, software, ...
+I am currently working as a postdoc at the [Complexity Science Hub Vienna][csh], within the Creativity and Innovation Dynamics team. In collaborative projects, small contributions may sometimes be really valuable, by the new ideas they bring or the new paths they open. By building mathematical models and analyzing big databases of collaborative works (e.g. wikipedia, github, scientific literature, ...) we aim at spotting such contributions, suggest fairer credit attribution schemes, and foster more collaboration in various domains: scientific, artistic, software, ...
 
 #### PhD defense, Dec. 10th 2018
 
