@@ -5,7 +5,11 @@ title: Home
 
 <img class="img-home" src="{{ site.baseurl }}/resources/photo.jpg"/>
 
-I am currently working as a postdoc at the [Complexity Science Hub Vienna][csh], within the Creativity and Innovation Dynamics team. In collaborative projects, small contributions may sometimes be really valuable, by the new ideas they bring or the new paths they open. By building mathematical models and analyzing big databases of collaborative works (e.g. wikipedia, github, scientific literature, ...) we aim at spotting such contributions, suggest fairer credit attribution schemes, and foster more collaboration in various domains: scientific, artistic, software, ...
+I am currently working as a postdoc at the [Complexity Science Hub Vienna][csh], studying systemic risk in food supply chains and in Open Source Software ecosystems. I have responsibilities in several projects as a data engineer, and am also helping with IT system administration in general. One of my goals as a researcher is to promote higher standards of reproducibility of science.
+
+
+
+
 
 #### PhD defense, Dec. 10th 2018
 
@@ -19,16 +23,6 @@ I am currently working as a postdoc at the [Complexity Science Hub Vienna][csh],
 [Online experiment][game]
 
 
-#### Talk at CSH Vienna, October 18th 2019
-
-
-[Presentation slides][slidesCSH]
-
-[Small video][smallvideo]
-
-[Online experiment][game]
-
-[QR code][QR]
 
 [flowers]:      http://flowers.inria.fr
 [inria]:   		http://www.inria.fr/en/centre/bordeaux
