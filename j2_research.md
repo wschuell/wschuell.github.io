@@ -4,7 +4,6 @@ title: Research
 permalink: /research/
 ---
 
-<current research>
 
 I am currently involved in two projects:
 
