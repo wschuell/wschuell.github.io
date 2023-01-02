@@ -5,7 +5,7 @@ title: Home
 
 <img class="img-home" src="{{ site.baseurl }}/resources/photo.jpg"/>
 
-I am currently working as a postdoc at the [Complexity Science Hub Vienna][csh], studying systemic risk in food supply chains and in Open Source Software ecosystems. I have responsibilities in several projects as a data engineer, and am also helping with IT system administration in general. One of my goals as a researcher is to promote higher standards of reproducibility of science.
+I am currently working as a postdoc at the [Complexity Science Hub Vienna][csh], studying systemic risk in food supply chains and in Open Source Software ecosystems. I have responsibilities in several projects as a data engineer, and am also helping with IT system administration in general. One of my goals as a researcher is to promote higher standards of reproducibility of science where software and data are involved.
 
 
 

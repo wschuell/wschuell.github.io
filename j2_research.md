@@ -26,7 +26,7 @@ We successfully built a prototype for the pork meat supply chain, and aim at ext
 
 I am trying to promote better habits in science concerning reproducibility, through improving better coding habits and learning from concepts existing in the software engineering community. I put as much of my work as possible on my [github account][gh].
 
-I am still a learning developer, and potentially better solutions have been implemented by others by now, but my intents lead to:
+I am still a learning developer, and potentially better solutions have been implemented by others by now, but here are examples of what my intents lead to:
  - a library to manage experiments and deploy them easily on clusters https://github.com/wschuell/experiment_manager
  - a template for python library repositories: https://github.com/wschuell/pylib_template
  - a library to construct modular datasets around git repositories: https://github.com/wschuell/repodepo
