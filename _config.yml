@@ -1,6 +1,6 @@
 # Site settings
 title: William Schueller
-email: schueller@csh.ac.at
+email: william.schueller@ens-lyon.org
 description: "Personal page of William Schueller"
 
 baseurl: "" # the subpath of your site, e.g. /blog/

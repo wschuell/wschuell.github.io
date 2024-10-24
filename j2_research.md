@@ -5,8 +5,6 @@ permalink: /research/
 ---
 
 
-I am currently involved in two projects:
-
 
 **Project 1: Systemic Risk in Open Source Software Ecosystems**
 
@@ -17,8 +15,6 @@ By studying collaboration networks in specific ecosystems (e.g. around the langu
 **Project 2: Systemic Risk in the Austrian Food Supply Chain**
 
 By collecting data at the national level -- in collaboration with many actors--, we aim at reconstructing the food supply chain from production (e.g. farms) to consumers, and define proper risk measure, and build interactive tools for policy makers. How would the population be impacted by a lockdown of a given part of the country? What would be the result of closing certain borders?
-
-We successfully built a prototype for the pork meat supply chain, and aim at extending this to all basic products.
 
 
 
@@ -33,6 +29,7 @@ I am still a learning developer, and potentially better solutions have been impl
 
 
 **PhD work**
+
 My PhD work aimed at connecting those 2 fields: study the dynamics of language as a cultural phenomenon. Previous work on multi-agents models of language emergence and evolution (called Language Games) showed that it is possible for a population to agree on a common language while following simple rules. However, some features of the model stay non-realistic: there is a burst in complexity of what agents have to memorize, before reaching consensus.
 In individual learning, some behaviors can be the key to an active control of complexity growth: active learning mechanisms, driven by curiosity and intrinsic motivation. My PhD work consisted in adapting this class of mechanisms to Language Games. We designed principled and cognitively plausible algorithms that effectively addressed the complexity issue. More generally, this also shows that individual intrinsic motivation can improve the efficiency of collective behavior and solve problems at population level. As final part of my PhD, we are currently running a user-experiment in the form of a web application, to test whether our algorithms are related to the performance level of humans put in the same conditions.
 

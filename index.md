@@ -5,23 +5,18 @@ title: Home
 
 <img class="img-home" src="{{ site.baseurl }}/resources/photo.jpg"/>
 
-I am currently working as a postdoc at the [Complexity Science Hub Vienna][csh], studying systemic risk in food supply chains and in Open Source Software ecosystems. I have responsibilities in several projects as a data engineer, and am also helping with IT system administration in general. One of my goals as a researcher is to promote higher standards of reproducibility of science where software and data are involved.
+Until fall 2024, I was a postdoc at the [Complexity Science Hub Vienna][csh], studying systemic risk in food supply chains and in Open Source Software ecosystems. I had responsibilities in several projects as a data engineer, and was also helping with IT system administration in general. One of my goals as a researcher is to promote higher standards of reproducibility of science where software and data are involved.
 
 
 
 
 
-#### PhD defense, Dec. 10th 2018
 
-[Presentation slides][slides]
-
-[Thesis manuscript][manuscript]
-
-[Presentation video][video]
-
+[PhD defense][video]
 
 [Online experiment][game]
 
+[Talk at SFI][sfi_talk]
 
 
 [flowers]:      http://flowers.inria.fr
@@ -39,3 +34,5 @@ I am currently working as a postdoc at the [Complexity Science Hub Vienna][csh],
 [QR]:		https://kouzan.cslparis.com/koin/alt.php?s=D9lD8ZfDf8HWJIxVwwmJZlmhlhXpZGhpVDX8fm9mZYpvm3lJJm
 
 [slidesCSH]:		https://drive.google.com/open?id=1I983lho_xJmqJfxyym-r_JmSyulOkOwY
+
+[sfi_talk]:	https://www.youtube.com/watch?v=LzA2J9Rs8RE
